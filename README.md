@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 6 } <img src=https://www.gamelab.id/uploads/modules/NEWS/419/1609842093-picsay.jpg?1609842313065 width="130px">
+# Tugas Praktikum { Pertemuan ke 6 } <img src=https://www.gamelab.id/uploads/modules/NEWS/419/1609842093-picsay.jpg?1609842313065 width="140px">
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
