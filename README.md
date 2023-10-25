@@ -41,6 +41,8 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ***Seleksi Kondisi ( if-else) :***
 
+![](img/ss22.png)
+
 ![](img/ss7.png)
 
 ***Penggunaan Operator Switch Untuk Seleksi Kondisi :***
@@ -67,7 +69,7 @@ Pilihan Menggunakan ``Checkbox`` dengan Perhitungan Otomatis.
 
 ## Pertanyaan dan Tugas
 
-Buatlah Script Untuk Melakukan Validasi Pada Isian Form.
+- Buatlah Script Untuk Melakukan Validasi Pada Isian Form.
 
 ## Jawab
 
