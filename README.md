@@ -13,7 +13,7 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ![](img/Home%20Screen%20VSC.png)
 
-## JavaScript Dasar
+## Mengenal JavaScript 
 
 ![](img/ss1.png)
 
@@ -27,7 +27,9 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ***Pemakaian Prompt :*** 
 
-![](img/ss4.png)
+![](img/ss23.png)
+
+![](img/ss24.png)
 
 ***Pembuatan Fungsi dan Cara Pemanggilannya :***
 
@@ -73,7 +75,7 @@ Pilihan Menggunakan ``Checkbox`` dengan Perhitungan Otomatis.
 
 ## Jawab
 
-Saya Membuat Validasi Berupa : ***Nama , No.Tlp dan E-mail.***
+Saya Membuat Validasi Berupa : ***Nama , No.Telp dan E-mail.***
 
 ## Nama
 
@@ -91,7 +93,7 @@ Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huru
 
 ![](img/ss16.png)
 
-## No.Tlp
+## No.Telp
 
 Pada bagian ini akan saya berikan validasi berupa hanya angka saja yang boleh di inputkan, contoh: ``12345 (benar)``, ``123AB (salah).``
 
