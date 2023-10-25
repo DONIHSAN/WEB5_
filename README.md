@@ -1,4 +1,4 @@
-# Tugas Praktikum { Pertemuan ke 6 } <img src=https://velog.velcdn.com/images/azd2013/post/affad795-9595-4c2b-bad0-efea305cf9ad/image.jpg width="125px" height="80px" >
+# Tugas Praktikum { Pertemuan ke 6 } <img src=https://www.gamelab.id/uploads/modules/NEWS/419/1609842093-picsay.jpg?1609842313065 width="130px">
 
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
@@ -11,39 +11,39 @@
 
 Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
-![]()
+![](img/Home%20Screen%20VSC.png)
 
 ## JavaScript Dasar
 
 ![](img/ss1.png)
 
-***Pemakaian Alert Sebagai Property Window.***
+***Pemakaian Alert Sebagai Property Window :***
 
 ![](img/ss2.png)
 
-***Pemakaian Method dalam Objek.***
+***Pemakaian Method dalam Objek :***
 
 ![](img/ss3.png)
 
-***Pemakaian Prompt.*** 
+***Pemakaian Prompt :*** 
 
 ![](img/ss4.png)
 
-``Pembuatan Fungsi dan Cara Pemanggilannya.``
+***Pembuatan Fungsi dan Cara Pemanggilannya :***
 
 ![](img/ss5.png)
 
 ## Dasar Pemrograman JavaScript
 
-``Operasi Dasar Aritmatika.``
+***Operasi Dasar Aritmatika :***
 
 ![](img/ss6.png)
 
-``Seleksi Kondisi ( if-else).``
+***Seleksi Kondisi ( if-else) :***
 
 ![](img/ss7.png)
 
-***Penggunaan Operator Switch Untuk Seleksi Kondisi.***
+***Penggunaan Operator Switch Untuk Seleksi Kondisi :***
 
 ![](img/ss8.png)
 
@@ -51,11 +51,11 @@ Membuka ``text editor`` , di sini saya menggunakan ***Visual Studio Code.***
 
 ## Pembuatan Form
 
-***Form Input.***
+***Form Input :***
 
 ![](img/ss10.png)
 
-***Form Button.***
+***Form Button :***
 
 ![](img/ss11.png)
 
@@ -67,15 +67,15 @@ Pilihan Menggunakan ``Checkbox`` dengan Perhitungan Otomatis.
 
 ## Pertanyaan dan Tugas
 
-1. Buatlah Script Untuk Melakukan Validasi Pada Isian Form.
+Buatlah Script Untuk Melakukan Validasi Pada Isian Form.
 
 ## Jawab
 
 Saya Membuat Validasi Berupa : ***Nama , No.Tlp dan E-mail.***
 
-### Nama
+## Nama
 
-Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh : **Ikhsan Fakhrudin** ``(benar)``, **Ikhsan Fakhrudin 99** ``(salah).``
+Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh : **Ikhsan Fakhrudin** ``(benar)``, **Ikhsan Fakhrudin99** ``(salah).``
 
 ![](img/ss13.png)
 
@@ -89,7 +89,7 @@ Disini saya akan memberikan validasi berupa inputan hanya boleh menggunakan Huru
 
 ![](img/ss16.png)
 
-### No.Tlp
+## No.Tlp
 
 Pada bagian ini akan saya berikan validasi berupa hanya angka saja yang boleh di inputkan, contoh: ``12345 (benar)``, ``123AB (salah).``
 
@@ -105,7 +105,7 @@ Pada bagian ini akan saya berikan validasi berupa hanya angka saja yang boleh di
 
 ![](img/ss17.png)
 
-### E-mail
+## E-mail
 
 Pada email akan diberikan validasi masih berupa Regular Expression. Contoh : ``ihsaanef@gmail.com (benar)``, ``Donihsan98@gmail. (salah)``.
 
@@ -117,12 +117,13 @@ Pada email akan diberikan validasi masih berupa Regular Expression. Contoh : ``i
 
 ![](img/ss18.png)
 
+## Berikut Penulisan Form yang Benar
 
+![](img/ss20.png)
 
+![](img/ss21.png)
 
-
-
-
+![](img/ss19.png)
 
 
 ## SELESAI <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png"> <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/thumbs/160/twitter/348/flag-indonesia_1f1ee-1f1e9.png">
